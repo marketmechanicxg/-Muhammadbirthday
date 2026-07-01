@@ -68,7 +68,7 @@ const LETTER_PARAGRAPHS = [
   "saya nak awak tau saya ada kat sini untuk awak sampai bila bila. saya janji saya jaga awak, sayang awak dengan semua jiwa raga saya, tu janji saya pada awak. saya bersyukur dapat awak satu dalam sejuta.",
   "thankyou sebab jadi orang yang paling baik terhadap saya, jadi orang yang saya selalu cari even happy or sedih, jadi orang yang selalu dalam kepala saya tak kira masa dan dimana. wujudnya awak kat atas muka bumi ni makes hari hari kebiasaan saya jadi luar biasa. ",
   "so, saya harap hari ni awak dikelilingi orang yang sayang awak macam mana awak sayang saya and macam mana saya sayang awak. semoga hari ni semua orang layan muhammad saya dengan baik and ikhlas. happy birthday again b, my favourite person ever. ",
-  "-from your manja, sayang.",
+
 ];
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -121,7 +121,7 @@ const WISHES = [
   { icon: "shell",   text: "hoping you stays bright and funny, teruskan perangai loya buruk awak tu okay ? i love it 😍" },
   { icon: "star",    text: "whatever rintangan that comes to you, i hope you always can find you way back to the people yang sayang awak. please find me if you ever have rintangan okay ?" },
   { icon: "compass", text: "may every of your wishes come true slowly in time, especially when you need it the most." },
-  { icon: "anchor",  text: "* may your wishes that we’ll get married in two years come true as i hoping to be your lovely wife and your kids mother in our future." },
+  { icon: "anchor",  text: "may your wishes that we’ll get married in two years come true as i hoping to be your lovely wife and your kids mother in our future." },
   { icon: "heart",   text: "⁠happy birthday my usyuk asyam, another birthday another memories that will be makes right ?" },
 ];
 
