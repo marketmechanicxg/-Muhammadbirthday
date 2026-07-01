@@ -119,7 +119,7 @@ const MEMORIES = [
 const WISHES = [
   { icon: "wave",    text: "may this remaining months give you all the happiness that you wants as you always makes other people happy with you kindness." },
   { icon: "shell",   text: "hoping you stays bright and funny, teruskan perangai loya buruk awak tu okay ? i love it 😍" },
-  { icon: "star",    text: "whatever rintangan that comes to you, i hope you always can find you way back to the people yang sayang awak. please find me if you ever have rintangan okay ?" },
+  { icon: "star",    text: "whatever rintangan that comes to you, i hope you always can find you way back to the people yang sayang awak. please find me if you ever have any rintangan okay ?" },
   { icon: "compass", text: "may every of your wishes come true slowly in time, especially when you need it the most." },
   { icon: "anchor",  text: "may your wishes that we’ll get married in two years come true as i hoping to be your lovely wife and your kids mother in our future." },
   { icon: "heart",   text: "⁠happy birthday my usyuk asyam, another birthday another memories that will be makes right ?" },
